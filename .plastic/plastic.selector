@@ -1,0 +1,4 @@
+repository "EndlessRunner@SheenGames@cloud"
+  path "/"
+    smartbranch "/main/Hulya"        
+     
